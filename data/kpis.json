@@ -1,0 +1,383 @@
+{
+  "phases": [
+    {
+      "key": "offensive",
+      "label": "Offensive"
+    },
+    {
+      "key": "defensive",
+      "label": "Defensive"
+    }
+  ],
+  "subgroups": [
+    {
+      "key": "offensive_kpis",
+      "label": "Offensive KPIs"
+    },
+    {
+      "key": "finishing_kpis",
+      "label": "Finishing KPIs"
+    },
+    {
+      "key": "defensive_kpis",
+      "label": "Defensive KPIs"
+    },
+    {
+      "key": "prevent_finishing",
+      "label": "Prevent Finishing"
+    }
+  ],
+  "items": [
+    {
+      "key": "offensive::offensive_kpis::Touches final 3rd",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "offensive_kpis",
+      "subgroup_label": "Offensive KPIs",
+      "name": "Touches final 3rd",
+      "higher_is_better": true,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::offensive_kpis::Touches in the box",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "offensive_kpis",
+      "subgroup_label": "Offensive KPIs",
+      "name": "Touches in the box",
+      "higher_is_better": true,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::offensive_kpis::Ball Possession Rate %",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "offensive_kpis",
+      "subgroup_label": "Offensive KPIs",
+      "name": "Ball Possession Rate %",
+      "higher_is_better": true,
+      "format": "pct",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::offensive_kpis::Ball Progression",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "offensive_kpis",
+      "subgroup_label": "Offensive KPIs",
+      "name": "Ball Progression",
+      "higher_is_better": true,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::offensive_kpis::Breaking Opponent Defence",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "offensive_kpis",
+      "subgroup_label": "Offensive KPIs",
+      "name": "Breaking Opponent Defence",
+      "higher_is_better": true,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::offensive_kpis::Ratio - offensive ball control",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "offensive_kpis",
+      "subgroup_label": "Offensive KPIs",
+      "name": "Ratio - offensive ball control",
+      "higher_is_better": true,
+      "format": "pct",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::finishing_kpis::Shot-based xG",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "finishing_kpis",
+      "subgroup_label": "Finishing KPIs",
+      "name": "Shot-based xG",
+      "higher_is_better": true,
+      "format": "xg",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::finishing_kpis::Post-shot xG",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "finishing_kpis",
+      "subgroup_label": "Finishing KPIs",
+      "name": "Post-shot xG",
+      "higher_is_better": true,
+      "format": "xg",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::finishing_kpis::Shots",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "finishing_kpis",
+      "subgroup_label": "Finishing KPIs",
+      "name": "Shots",
+      "higher_is_better": true,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::finishing_kpis::Shots Inside the box",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "finishing_kpis",
+      "subgroup_label": "Finishing KPIs",
+      "name": "Shots Inside the box",
+      "higher_is_better": true,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "offensive::finishing_kpis::Shots on Target",
+      "phase": "offensive",
+      "phase_label": "Offensive",
+      "subgroup": "finishing_kpis",
+      "subgroup_label": "Finishing KPIs",
+      "name": "Shots on Target",
+      "higher_is_better": true,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Opp Touches final 3rd",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Opp Touches final 3rd",
+      "higher_is_better": false,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Opp Touches in the box",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Opp Touches in the box",
+      "higher_is_better": false,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::PPDA",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "PPDA",
+      "higher_is_better": false,
+      "format": "float",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Average Pressure Height",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Average Pressure Height",
+      "higher_is_better": true,
+      "format": "float",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Own Defence Broken",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Own Defence Broken",
+      "higher_is_better": false,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Opp Ball Progression",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Opp Ball Progression",
+      "higher_is_better": false,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Duel Rate %",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Duel Rate %",
+      "higher_is_better": true,
+      "format": "pct",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Avg pressure Counter Press",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Avg pressure Counter Press",
+      "higher_is_better": true,
+      "format": "float",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Offensive Ball Wins (Def.)",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Offensive Ball Wins (Def.)",
+      "higher_is_better": true,
+      "format": "pct",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Ratio - def interv/clearances",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Ratio - def interv/clearances",
+      "higher_is_better": true,
+      "format": "pct",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::defensive_kpis::Ratio - Last Ditch Interv.",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "defensive_kpis",
+      "subgroup_label": "Defensive KPIs",
+      "name": "Ratio - Last Ditch Interv.",
+      "higher_is_better": false,
+      "format": "pct",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::prevent_finishing::Opp Shot-based xG",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "prevent_finishing",
+      "subgroup_label": "Prevent Finishing",
+      "name": "Opp Shot-based xG",
+      "higher_is_better": false,
+      "format": "xg",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::prevent_finishing::Opp Post-shot xG",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "prevent_finishing",
+      "subgroup_label": "Prevent Finishing",
+      "name": "Opp Post-shot xG",
+      "higher_is_better": false,
+      "format": "xg",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::prevent_finishing::Opp Shots",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "prevent_finishing",
+      "subgroup_label": "Prevent Finishing",
+      "name": "Opp Shots",
+      "higher_is_better": false,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::prevent_finishing::Opp Shots Inside the box",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "prevent_finishing",
+      "subgroup_label": "Prevent Finishing",
+      "name": "Opp Shots Inside the box",
+      "higher_is_better": false,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    },
+    {
+      "key": "defensive::prevent_finishing::Opp Shots on Target",
+      "phase": "defensive",
+      "phase_label": "Defensive",
+      "subgroup": "prevent_finishing",
+      "subgroup_label": "Prevent Finishing",
+      "name": "Opp Shots on Target",
+      "higher_is_better": false,
+      "format": "int",
+      "default": true,
+      "manual": false,
+      "has_reference_data": true
+    }
+  ]
+}

@@ -1,0 +1,2928 @@
+{
+  "season_source": "2025",
+  "kpis": {
+    "offensive::offensive_kpis::Touches final 3rd": {
+      "higher_is_better": true,
+      "t1": 112.0,
+      "t2": 92.0,
+      "t3": 74.0,
+      "avg": 89.4375,
+      "min": 51.0,
+      "max": 146.0,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 146.0,
+          "rank": 1
+        },
+        {
+          "team": "GAIS",
+          "value": 114.0,
+          "rank": 2
+        },
+        {
+          "team": "Malmö FF",
+          "value": 114.0,
+          "rank": 3
+        },
+        {
+          "team": "BK Häcken",
+          "value": 112.0,
+          "rank": 4
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 96.0,
+          "rank": 5
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 95.0,
+          "rank": 6
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 94.0,
+          "rank": 7
+        },
+        {
+          "team": "IK Sirius",
+          "value": 92.0,
+          "rank": 8
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 80.0,
+          "rank": 9
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 77.0,
+          "rank": 10
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 76.0,
+          "rank": 11
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 74.0,
+          "rank": 12
+        },
+        {
+          "team": "AIK",
+          "value": 72.0,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 69.0,
+          "rank": 14
+        },
+        {
+          "team": "Östers IF",
+          "value": 69.0,
+          "rank": 15
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 51.0,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::offensive_kpis::Touches in the box": {
+      "higher_is_better": true,
+      "t1": 17.0,
+      "t2": 16.0,
+      "t3": 12.0,
+      "avg": 15.0625,
+      "min": 11.0,
+      "max": 22.0,
+      "ranked_teams": [
+        {
+          "team": "Malmö FF",
+          "value": 22.0,
+          "rank": 1
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 18.0,
+          "rank": 2
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 18.0,
+          "rank": 3
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 17.0,
+          "rank": 4
+        },
+        {
+          "team": "BK Häcken",
+          "value": 17.0,
+          "rank": 5
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 16.0,
+          "rank": 6
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 16.0,
+          "rank": 7
+        },
+        {
+          "team": "IK Sirius",
+          "value": 16.0,
+          "rank": 8
+        },
+        {
+          "team": "GAIS",
+          "value": 15.0,
+          "rank": 9
+        },
+        {
+          "team": "AIK",
+          "value": 15.0,
+          "rank": 10
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 14.0,
+          "rank": 11
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 12.0,
+          "rank": 12
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 12.0,
+          "rank": 13
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 11.0,
+          "rank": 14
+        },
+        {
+          "team": "Östers IF",
+          "value": 11.0,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 11.0,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::offensive_kpis::Ball Possession Rate %": {
+      "higher_is_better": true,
+      "t1": 0.543,
+      "t2": 0.501,
+      "t3": 0.467,
+      "avg": 0.4993125,
+      "min": 0.417,
+      "max": 0.599,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 0.599,
+          "rank": 1
+        },
+        {
+          "team": "BK Häcken",
+          "value": 0.563,
+          "rank": 2
+        },
+        {
+          "team": "Malmö FF",
+          "value": 0.557,
+          "rank": 3
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 0.543,
+          "rank": 4
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 0.529,
+          "rank": 5
+        },
+        {
+          "team": "GAIS",
+          "value": 0.518,
+          "rank": 6
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 0.513,
+          "rank": 7
+        },
+        {
+          "team": "IK Sirius",
+          "value": 0.501,
+          "rank": 8
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 0.486,
+          "rank": 9
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 0.47,
+          "rank": 10
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 0.469,
+          "rank": 11
+        },
+        {
+          "team": "AIK",
+          "value": 0.467,
+          "rank": 12
+        },
+        {
+          "team": "Östers IF",
+          "value": 0.467,
+          "rank": 13
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 0.447,
+          "rank": 14
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 0.443,
+          "rank": 15
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 0.417,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::offensive_kpis::Ball Progression": {
+      "higher_is_better": true,
+      "t1": 402.0,
+      "t2": 341.0,
+      "t3": 313.0,
+      "avg": 346.625,
+      "min": 287.0,
+      "max": 421.0,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 421.0,
+          "rank": 1
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 420.0,
+          "rank": 2
+        },
+        {
+          "team": "BK Häcken",
+          "value": 414.0,
+          "rank": 3
+        },
+        {
+          "team": "Malmö FF",
+          "value": 402.0,
+          "rank": 4
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 373.0,
+          "rank": 5
+        },
+        {
+          "team": "GAIS",
+          "value": 355.0,
+          "rank": 6
+        },
+        {
+          "team": "IK Sirius",
+          "value": 351.0,
+          "rank": 7
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 341.0,
+          "rank": 8
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 327.0,
+          "rank": 9
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 316.0,
+          "rank": 10
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 314.0,
+          "rank": 11
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 313.0,
+          "rank": 12
+        },
+        {
+          "team": "Östers IF",
+          "value": 307.0,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 304.0,
+          "rank": 14
+        },
+        {
+          "team": "AIK",
+          "value": 301.0,
+          "rank": 15
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 287.0,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::offensive_kpis::Breaking Opponent Defence": {
+      "higher_is_better": true,
+      "t1": 53.0,
+      "t2": 47.0,
+      "t3": 45.0,
+      "avg": 48.0625,
+      "min": 41.0,
+      "max": 56.0,
+      "ranked_teams": [
+        {
+          "team": "Mjällby AIF",
+          "value": 56.0,
+          "rank": 1
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 56.0,
+          "rank": 2
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 54.0,
+          "rank": 3
+        },
+        {
+          "team": "Malmö FF",
+          "value": 53.0,
+          "rank": 4
+        },
+        {
+          "team": "BK Häcken",
+          "value": 51.0,
+          "rank": 5
+        },
+        {
+          "team": "IK Sirius",
+          "value": 50.0,
+          "rank": 6
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 48.0,
+          "rank": 7
+        },
+        {
+          "team": "AIK",
+          "value": 47.0,
+          "rank": 8
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 47.0,
+          "rank": 9
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 46.0,
+          "rank": 10
+        },
+        {
+          "team": "GAIS",
+          "value": 45.0,
+          "rank": 11
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 45.0,
+          "rank": 12
+        },
+        {
+          "team": "Östers IF",
+          "value": 44.0,
+          "rank": 13
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 43.0,
+          "rank": 14
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 43.0,
+          "rank": 15
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 41.0,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::offensive_kpis::Ratio - offensive ball control": {
+      "higher_is_better": true,
+      "t1": 0.557,
+      "t2": 0.549,
+      "t3": 0.499,
+      "avg": 0.53525,
+      "min": 0.487,
+      "max": 0.579,
+      "ranked_teams": [
+        {
+          "team": "AIK",
+          "value": 0.579,
+          "rank": 1
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 0.572,
+          "rank": 2
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 0.564,
+          "rank": 3
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 0.557,
+          "rank": 4
+        },
+        {
+          "team": "Östers IF",
+          "value": 0.556,
+          "rank": 5
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 0.555,
+          "rank": 6
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 0.555,
+          "rank": 7
+        },
+        {
+          "team": "GAIS",
+          "value": 0.549,
+          "rank": 8
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 0.549,
+          "rank": 9
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 0.538,
+          "rank": 10
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 0.527,
+          "rank": 11
+        },
+        {
+          "team": "IK Sirius",
+          "value": 0.499,
+          "rank": 12
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 0.498,
+          "rank": 13
+        },
+        {
+          "team": "Malmö FF",
+          "value": 0.492,
+          "rank": 14
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 0.487,
+          "rank": 15
+        },
+        {
+          "team": "BK Häcken",
+          "value": 0.487,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::finishing_kpis::Shot-based xG": {
+      "higher_is_better": true,
+      "t1": 1.67,
+      "t2": 1.55,
+      "t3": 1.33,
+      "avg": 1.486875,
+      "min": 1.1,
+      "max": 1.75,
+      "ranked_teams": [
+        {
+          "team": "IK Sirius",
+          "value": 1.75,
+          "rank": 1
+        },
+        {
+          "team": "BK Häcken",
+          "value": 1.75,
+          "rank": 2
+        },
+        {
+          "team": "GAIS",
+          "value": 1.73,
+          "rank": 3
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 1.67,
+          "rank": 4
+        },
+        {
+          "team": "Malmö FF",
+          "value": 1.66,
+          "rank": 5
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 1.65,
+          "rank": 6
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 1.59,
+          "rank": 7
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 1.55,
+          "rank": 8
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 1.54,
+          "rank": 9
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 1.41,
+          "rank": 10
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 1.38,
+          "rank": 11
+        },
+        {
+          "team": "AIK",
+          "value": 1.33,
+          "rank": 12
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 1.24,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 1.23,
+          "rank": 14
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 1.21,
+          "rank": 15
+        },
+        {
+          "team": "Östers IF",
+          "value": 1.1,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::finishing_kpis::Post-shot xG": {
+      "higher_is_better": true,
+      "t1": 1.65,
+      "t2": 1.55,
+      "t3": 1.3,
+      "avg": 1.45375,
+      "min": 0.96,
+      "max": 2.0,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 2.0,
+          "rank": 1
+        },
+        {
+          "team": "BK Häcken",
+          "value": 1.74,
+          "rank": 2
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 1.7,
+          "rank": 3
+        },
+        {
+          "team": "IK Sirius",
+          "value": 1.65,
+          "rank": 4
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 1.64,
+          "rank": 5
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 1.59,
+          "rank": 6
+        },
+        {
+          "team": "Malmö FF",
+          "value": 1.56,
+          "rank": 7
+        },
+        {
+          "team": "GAIS",
+          "value": 1.55,
+          "rank": 8
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 1.53,
+          "rank": 9
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 1.36,
+          "rank": 10
+        },
+        {
+          "team": "AIK",
+          "value": 1.31,
+          "rank": 11
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 1.3,
+          "rank": 12
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 1.25,
+          "rank": 13
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 1.11,
+          "rank": 14
+        },
+        {
+          "team": "Östers IF",
+          "value": 1.01,
+          "rank": 15
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 0.96,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::finishing_kpis::Shots": {
+      "higher_is_better": true,
+      "t1": 14.9,
+      "t2": 13.6,
+      "t3": 12.2,
+      "avg": 13.19375,
+      "min": 9.3,
+      "max": 16.0,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 16.0,
+          "rank": 1
+        },
+        {
+          "team": "GAIS",
+          "value": 16.0,
+          "rank": 2
+        },
+        {
+          "team": "Malmö FF",
+          "value": 15.5,
+          "rank": 3
+        },
+        {
+          "team": "BK Häcken",
+          "value": 14.9,
+          "rank": 4
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 14.3,
+          "rank": 5
+        },
+        {
+          "team": "IK Sirius",
+          "value": 14.2,
+          "rank": 6
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 13.9,
+          "rank": 7
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 13.6,
+          "rank": 8
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 12.7,
+          "rank": 9
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 12.7,
+          "rank": 10
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 12.7,
+          "rank": 11
+        },
+        {
+          "team": "AIK",
+          "value": 12.2,
+          "rank": 12
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 12.2,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 11.0,
+          "rank": 14
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 9.9,
+          "rank": 15
+        },
+        {
+          "team": "Östers IF",
+          "value": 9.3,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::finishing_kpis::Shots Inside the box": {
+      "higher_is_better": true,
+      "t1": 10.83,
+      "t2": 10.34,
+      "t3": 8.9,
+      "avg": 9.903125,
+      "min": 7.3,
+      "max": 11.9,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 11.9,
+          "rank": 1
+        },
+        {
+          "team": "Malmö FF",
+          "value": 11.9,
+          "rank": 2
+        },
+        {
+          "team": "GAIS",
+          "value": 11.66,
+          "rank": 3
+        },
+        {
+          "team": "IK Sirius",
+          "value": 10.83,
+          "rank": 4
+        },
+        {
+          "team": "BK Häcken",
+          "value": 10.77,
+          "rank": 5
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 10.37,
+          "rank": 6
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 10.36,
+          "rank": 7
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 10.34,
+          "rank": 8
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 10.3,
+          "rank": 9
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 9.7,
+          "rank": 10
+        },
+        {
+          "team": "AIK",
+          "value": 9.3,
+          "rank": 11
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 8.9,
+          "rank": 12
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 8.63,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 8.16,
+          "rank": 14
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 8.03,
+          "rank": 15
+        },
+        {
+          "team": "Östers IF",
+          "value": 7.3,
+          "rank": 16
+        }
+      ]
+    },
+    "offensive::finishing_kpis::Shots on Target": {
+      "higher_is_better": true,
+      "t1": 5.1,
+      "t2": 4.7,
+      "t3": 4.1,
+      "avg": 4.6125,
+      "min": 3.3,
+      "max": 6.0,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 6.0,
+          "rank": 1
+        },
+        {
+          "team": "BK Häcken",
+          "value": 5.9,
+          "rank": 2
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 5.4,
+          "rank": 3
+        },
+        {
+          "team": "Malmö FF",
+          "value": 5.1,
+          "rank": 4
+        },
+        {
+          "team": "IK Sirius",
+          "value": 5.1,
+          "rank": 5
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 5.0,
+          "rank": 6
+        },
+        {
+          "team": "GAIS",
+          "value": 4.9,
+          "rank": 7
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 4.7,
+          "rank": 8
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 4.4,
+          "rank": 9
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 4.3,
+          "rank": 10
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 4.3,
+          "rank": 11
+        },
+        {
+          "team": "AIK",
+          "value": 4.1,
+          "rank": 12
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 4.1,
+          "rank": 13
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 3.7,
+          "rank": 14
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 3.5,
+          "rank": 15
+        },
+        {
+          "team": "Östers IF",
+          "value": 3.3,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Opp Touches final 3rd": {
+      "higher_is_better": false,
+      "t1": 78.0,
+      "t2": 88.0,
+      "t3": 103.0,
+      "avg": 89.5,
+      "min": 60.0,
+      "max": 109.0,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 60.0,
+          "rank": 1
+        },
+        {
+          "team": "GAIS",
+          "value": 69.0,
+          "rank": 2
+        },
+        {
+          "team": "Malmö FF",
+          "value": 73.0,
+          "rank": 3
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 78.0,
+          "rank": 4
+        },
+        {
+          "team": "BK Häcken",
+          "value": 78.0,
+          "rank": 5
+        },
+        {
+          "team": "AIK",
+          "value": 86.0,
+          "rank": 6
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 87.0,
+          "rank": 7
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 88.0,
+          "rank": 8
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 88.0,
+          "rank": 9
+        },
+        {
+          "team": "IK Sirius",
+          "value": 95.0,
+          "rank": 10
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 98.0,
+          "rank": 11
+        },
+        {
+          "team": "Östers IF",
+          "value": 103.0,
+          "rank": 12
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 104.0,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 107.0,
+          "rank": 14
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 109.0,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 109.0,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Opp Touches in the box": {
+      "higher_is_better": false,
+      "t1": 13.0,
+      "t2": 15.0,
+      "t3": 16.0,
+      "avg": 15.0625,
+      "min": 10.0,
+      "max": 21.0,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 10.0,
+          "rank": 1
+        },
+        {
+          "team": "AIK",
+          "value": 11.0,
+          "rank": 2
+        },
+        {
+          "team": "GAIS",
+          "value": 12.0,
+          "rank": 3
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 13.0,
+          "rank": 4
+        },
+        {
+          "team": "Malmö FF",
+          "value": 13.0,
+          "rank": 5
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 13.0,
+          "rank": 6
+        },
+        {
+          "team": "BK Häcken",
+          "value": 14.0,
+          "rank": 7
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 15.0,
+          "rank": 8
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 16.0,
+          "rank": 9
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 16.0,
+          "rank": 10
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 16.0,
+          "rank": 11
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 16.0,
+          "rank": 12
+        },
+        {
+          "team": "IK Sirius",
+          "value": 17.0,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 19.0,
+          "rank": 14
+        },
+        {
+          "team": "Östers IF",
+          "value": 19.0,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 21.0,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::PPDA": {
+      "higher_is_better": false,
+      "t1": 8.99,
+      "t2": 9.58,
+      "t3": 10.95,
+      "avg": 10.008750000000001,
+      "min": 7.61,
+      "max": 13.1,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 7.61,
+          "rank": 1
+        },
+        {
+          "team": "Malmö FF",
+          "value": 8.76,
+          "rank": 2
+        },
+        {
+          "team": "GAIS",
+          "value": 8.82,
+          "rank": 3
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 8.99,
+          "rank": 4
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 9.0,
+          "rank": 5
+        },
+        {
+          "team": "BK Häcken",
+          "value": 9.17,
+          "rank": 6
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 9.21,
+          "rank": 7
+        },
+        {
+          "team": "AIK",
+          "value": 9.58,
+          "rank": 8
+        },
+        {
+          "team": "IK Sirius",
+          "value": 9.93,
+          "rank": 9
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 9.96,
+          "rank": 10
+        },
+        {
+          "team": "Östers IF",
+          "value": 10.34,
+          "rank": 11
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 10.95,
+          "rank": 12
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 10.99,
+          "rank": 13
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 11.15,
+          "rank": 14
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 12.58,
+          "rank": 15
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 13.1,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Average Pressure Height": {
+      "higher_is_better": true,
+      "t1": 64.0,
+      "t2": 61.5,
+      "t3": 59.0,
+      "avg": 61.55625,
+      "min": 57.4,
+      "max": 69.3,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 69.3,
+          "rank": 1
+        },
+        {
+          "team": "GAIS",
+          "value": 66.0,
+          "rank": 2
+        },
+        {
+          "team": "BK Häcken",
+          "value": 65.0,
+          "rank": 3
+        },
+        {
+          "team": "Malmö FF",
+          "value": 64.0,
+          "rank": 4
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 63.3,
+          "rank": 5
+        },
+        {
+          "team": "IK Sirius",
+          "value": 62.9,
+          "rank": 6
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 61.7,
+          "rank": 7
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 61.5,
+          "rank": 8
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 60.6,
+          "rank": 9
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 60.1,
+          "rank": 10
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 59.8,
+          "rank": 11
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 59.0,
+          "rank": 12
+        },
+        {
+          "team": "AIK",
+          "value": 58.8,
+          "rank": 13
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 58.1,
+          "rank": 14
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 57.4,
+          "rank": 15
+        },
+        {
+          "team": "Östers IF",
+          "value": 57.4,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Own Defence Broken": {
+      "higher_is_better": false,
+      "t1": 43.0,
+      "t2": 47.0,
+      "t3": 49.0,
+      "avg": 48.0625,
+      "min": 42.0,
+      "max": 62.0,
+      "ranked_teams": [
+        {
+          "team": "Mjällby AIF",
+          "value": 42.0,
+          "rank": 1
+        },
+        {
+          "team": "Malmö FF",
+          "value": 43.0,
+          "rank": 2
+        },
+        {
+          "team": "IK Sirius",
+          "value": 43.0,
+          "rank": 3
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 43.0,
+          "rank": 4
+        },
+        {
+          "team": "AIK",
+          "value": 45.0,
+          "rank": 5
+        },
+        {
+          "team": "GAIS",
+          "value": 47.0,
+          "rank": 6
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 47.0,
+          "rank": 7
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 47.0,
+          "rank": 8
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 48.0,
+          "rank": 9
+        },
+        {
+          "team": "Östers IF",
+          "value": 48.0,
+          "rank": 10
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 49.0,
+          "rank": 11
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 49.0,
+          "rank": 12
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 50.0,
+          "rank": 13
+        },
+        {
+          "team": "BK Häcken",
+          "value": 51.0,
+          "rank": 14
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 55.0,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 62.0,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Opp Ball Progression": {
+      "higher_is_better": false,
+      "t1": 322.0,
+      "t2": 341.0,
+      "t3": 367.0,
+      "avg": 346.75,
+      "min": 307.0,
+      "max": 394.0,
+      "ranked_teams": [
+        {
+          "team": "Mjällby AIF",
+          "value": 307.0,
+          "rank": 1
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 318.0,
+          "rank": 2
+        },
+        {
+          "team": "Malmö FF",
+          "value": 321.0,
+          "rank": 3
+        },
+        {
+          "team": "BK Häcken",
+          "value": 322.0,
+          "rank": 4
+        },
+        {
+          "team": "AIK",
+          "value": 327.0,
+          "rank": 5
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 334.0,
+          "rank": 6
+        },
+        {
+          "team": "GAIS",
+          "value": 341.0,
+          "rank": 7
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 341.0,
+          "rank": 8
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 345.0,
+          "rank": 9
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 352.0,
+          "rank": 10
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 357.0,
+          "rank": 11
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 367.0,
+          "rank": 12
+        },
+        {
+          "team": "IK Sirius",
+          "value": 371.0,
+          "rank": 13
+        },
+        {
+          "team": "Östers IF",
+          "value": 372.0,
+          "rank": 14
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 379.0,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 394.0,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Duel Rate %": {
+      "higher_is_better": true,
+      "t1": 0.507,
+      "t2": 0.505,
+      "t3": 0.492,
+      "avg": 0.4999375,
+      "min": 0.478,
+      "max": 0.519,
+      "ranked_teams": [
+        {
+          "team": "Mjällby AIF",
+          "value": 0.519,
+          "rank": 1
+        },
+        {
+          "team": "GAIS",
+          "value": 0.517,
+          "rank": 2
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 0.514,
+          "rank": 3
+        },
+        {
+          "team": "Malmö FF",
+          "value": 0.507,
+          "rank": 4
+        },
+        {
+          "team": "BK Häcken",
+          "value": 0.507,
+          "rank": 5
+        },
+        {
+          "team": "AIK",
+          "value": 0.506,
+          "rank": 6
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 0.505,
+          "rank": 7
+        },
+        {
+          "team": "Östers IF",
+          "value": 0.505,
+          "rank": 8
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 0.504,
+          "rank": 9
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 0.5,
+          "rank": 10
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 0.494,
+          "rank": 11
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 0.492,
+          "rank": 12
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 0.487,
+          "rank": 13
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 0.485,
+          "rank": 14
+        },
+        {
+          "team": "IK Sirius",
+          "value": 0.479,
+          "rank": 15
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 0.478,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Avg pressure Counter Press": {
+      "higher_is_better": true,
+      "t1": 32.08,
+      "t2": 30.84,
+      "t3": 30.15,
+      "avg": 31.0475,
+      "min": 29.15,
+      "max": 33.36,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 33.36,
+          "rank": 1
+        },
+        {
+          "team": "Malmö FF",
+          "value": 32.95,
+          "rank": 2
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 32.55,
+          "rank": 3
+        },
+        {
+          "team": "GAIS",
+          "value": 32.08,
+          "rank": 4
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 31.71,
+          "rank": 5
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 31.25,
+          "rank": 6
+        },
+        {
+          "team": "BK Häcken",
+          "value": 31.15,
+          "rank": 7
+        },
+        {
+          "team": "AIK",
+          "value": 30.84,
+          "rank": 8
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 30.55,
+          "rank": 9
+        },
+        {
+          "team": "IK Sirius",
+          "value": 30.44,
+          "rank": 10
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 30.4,
+          "rank": 11
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 30.15,
+          "rank": 12
+        },
+        {
+          "team": "Östers IF",
+          "value": 30.12,
+          "rank": 13
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 30.04,
+          "rank": 14
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 30.02,
+          "rank": 15
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 29.15,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Offensive Ball Wins (Def.)": {
+      "higher_is_better": true,
+      "t1": 0.029,
+      "t2": 0.026,
+      "t3": 0.024,
+      "avg": 0.026625,
+      "min": 0.023,
+      "max": 0.036,
+      "ranked_teams": [
+        {
+          "team": "AIK",
+          "value": 0.036,
+          "rank": 1
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 0.031,
+          "rank": 2
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 0.03,
+          "rank": 3
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 0.029,
+          "rank": 4
+        },
+        {
+          "team": "Malmö FF",
+          "value": 0.029,
+          "rank": 5
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 0.027,
+          "rank": 6
+        },
+        {
+          "team": "BK Häcken",
+          "value": 0.027,
+          "rank": 7
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 0.026,
+          "rank": 8
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 0.026,
+          "rank": 9
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 0.024,
+          "rank": 10
+        },
+        {
+          "team": "GAIS",
+          "value": 0.024,
+          "rank": 11
+        },
+        {
+          "team": "Östers IF",
+          "value": 0.024,
+          "rank": 12
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 0.024,
+          "rank": 13
+        },
+        {
+          "team": "IK Sirius",
+          "value": 0.023,
+          "rank": 14
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 0.023,
+          "rank": 15
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 0.023,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Ratio - def interv/clearances": {
+      "higher_is_better": true,
+      "t1": 0.524,
+      "t2": 0.506,
+      "t3": 0.498,
+      "avg": 0.5075000000000001,
+      "min": 0.459,
+      "max": 0.542,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 0.542,
+          "rank": 1
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 0.539,
+          "rank": 2
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 0.528,
+          "rank": 3
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 0.524,
+          "rank": 4
+        },
+        {
+          "team": "BK Häcken",
+          "value": 0.522,
+          "rank": 5
+        },
+        {
+          "team": "GAIS",
+          "value": 0.515,
+          "rank": 6
+        },
+        {
+          "team": "AIK",
+          "value": 0.51,
+          "rank": 7
+        },
+        {
+          "team": "Malmö FF",
+          "value": 0.506,
+          "rank": 8
+        },
+        {
+          "team": "Östers IF",
+          "value": 0.506,
+          "rank": 9
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 0.504,
+          "rank": 10
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 0.501,
+          "rank": 11
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 0.498,
+          "rank": 12
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 0.496,
+          "rank": 13
+        },
+        {
+          "team": "IK Sirius",
+          "value": 0.485,
+          "rank": 14
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 0.485,
+          "rank": 15
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 0.459,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::defensive_kpis::Ratio - Last Ditch Interv.": {
+      "higher_is_better": false,
+      "t1": 0.442,
+      "t2": 0.467,
+      "t3": 0.482,
+      "avg": 0.4639375,
+      "min": 0.41,
+      "max": 0.514,
+      "ranked_teams": [
+        {
+          "team": "Halmstads BK",
+          "value": 0.41,
+          "rank": 1
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 0.426,
+          "rank": 2
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 0.438,
+          "rank": 3
+        },
+        {
+          "team": "IK Sirius",
+          "value": 0.442,
+          "rank": 4
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 0.45,
+          "rank": 5
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 0.453,
+          "rank": 6
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 0.467,
+          "rank": 7
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 0.467,
+          "rank": 8
+        },
+        {
+          "team": "BK Häcken",
+          "value": 0.467,
+          "rank": 9
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 0.473,
+          "rank": 10
+        },
+        {
+          "team": "GAIS",
+          "value": 0.476,
+          "rank": 11
+        },
+        {
+          "team": "Malmö FF",
+          "value": 0.482,
+          "rank": 12
+        },
+        {
+          "team": "AIK",
+          "value": 0.482,
+          "rank": 13
+        },
+        {
+          "team": "Östers IF",
+          "value": 0.482,
+          "rank": 14
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 0.494,
+          "rank": 15
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 0.514,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::prevent_finishing::Opp Shot-based xG": {
+      "higher_is_better": false,
+      "t1": 1.23,
+      "t2": 1.47,
+      "t3": 1.55,
+      "avg": 1.4875,
+      "min": 1.08,
+      "max": 2.16,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 1.08,
+          "rank": 1
+        },
+        {
+          "team": "GAIS",
+          "value": 1.15,
+          "rank": 2
+        },
+        {
+          "team": "AIK",
+          "value": 1.17,
+          "rank": 3
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 1.23,
+          "rank": 4
+        },
+        {
+          "team": "Malmö FF",
+          "value": 1.37,
+          "rank": 5
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 1.4,
+          "rank": 6
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 1.46,
+          "rank": 7
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 1.47,
+          "rank": 8
+        },
+        {
+          "team": "IK Sirius",
+          "value": 1.48,
+          "rank": 9
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 1.53,
+          "rank": 10
+        },
+        {
+          "team": "BK Häcken",
+          "value": 1.55,
+          "rank": 11
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 1.55,
+          "rank": 12
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 1.63,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 1.76,
+          "rank": 14
+        },
+        {
+          "team": "Östers IF",
+          "value": 1.81,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 2.16,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::prevent_finishing::Opp Post-shot xG": {
+      "higher_is_better": false,
+      "t1": 1.13,
+      "t2": 1.38,
+      "t3": 1.64,
+      "avg": 1.45125,
+      "min": 1.03,
+      "max": 2.3,
+      "ranked_teams": [
+        {
+          "team": "AIK",
+          "value": 1.03,
+          "rank": 1
+        },
+        {
+          "team": "Malmö FF",
+          "value": 1.09,
+          "rank": 2
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 1.11,
+          "rank": 3
+        },
+        {
+          "team": "GAIS",
+          "value": 1.13,
+          "rank": 4
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 1.17,
+          "rank": 5
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 1.26,
+          "rank": 6
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 1.36,
+          "rank": 7
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 1.38,
+          "rank": 8
+        },
+        {
+          "team": "IK Sirius",
+          "value": 1.47,
+          "rank": 9
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 1.54,
+          "rank": 10
+        },
+        {
+          "team": "BK Häcken",
+          "value": 1.58,
+          "rank": 11
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 1.64,
+          "rank": 12
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 1.65,
+          "rank": 13
+        },
+        {
+          "team": "Östers IF",
+          "value": 1.65,
+          "rank": 14
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 1.86,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 2.3,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::prevent_finishing::Opp Shots": {
+      "higher_is_better": false,
+      "t1": 11.4,
+      "t2": 12.9,
+      "t3": 14.2,
+      "avg": 13.19375,
+      "min": 10.0,
+      "max": 17.6,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 10.0,
+          "rank": 1
+        },
+        {
+          "team": "AIK",
+          "value": 10.5,
+          "rank": 2
+        },
+        {
+          "team": "Malmö FF",
+          "value": 10.9,
+          "rank": 3
+        },
+        {
+          "team": "GAIS",
+          "value": 11.4,
+          "rank": 4
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 11.7,
+          "rank": 5
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 12.0,
+          "rank": 6
+        },
+        {
+          "team": "BK Häcken",
+          "value": 12.2,
+          "rank": 7
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 12.9,
+          "rank": 8
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 13.1,
+          "rank": 9
+        },
+        {
+          "team": "IK Sirius",
+          "value": 13.6,
+          "rank": 10
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 14.0,
+          "rank": 11
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 14.2,
+          "rank": 12
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 14.5,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 15.4,
+          "rank": 14
+        },
+        {
+          "team": "Östers IF",
+          "value": 17.1,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 17.6,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::prevent_finishing::Opp Shots Inside the box": {
+      "higher_is_better": false,
+      "t1": 8.27,
+      "t2": 9.83,
+      "t3": 10.63,
+      "avg": 9.90375,
+      "min": 7.57,
+      "max": 13.57,
+      "ranked_teams": [
+        {
+          "team": "Hammarby IF",
+          "value": 7.57,
+          "rank": 1
+        },
+        {
+          "team": "Malmö FF",
+          "value": 7.83,
+          "rank": 2
+        },
+        {
+          "team": "AIK",
+          "value": 8.0,
+          "rank": 3
+        },
+        {
+          "team": "GAIS",
+          "value": 8.27,
+          "rank": 4
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 8.4,
+          "rank": 5
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 9.36,
+          "rank": 6
+        },
+        {
+          "team": "BK Häcken",
+          "value": 9.53,
+          "rank": 7
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 9.83,
+          "rank": 8
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 9.97,
+          "rank": 9
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 10.03,
+          "rank": 10
+        },
+        {
+          "team": "IK Sirius",
+          "value": 10.4,
+          "rank": 11
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 10.63,
+          "rank": 12
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 10.67,
+          "rank": 13
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 11.8,
+          "rank": 14
+        },
+        {
+          "team": "Östers IF",
+          "value": 12.6,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 13.57,
+          "rank": 16
+        }
+      ]
+    },
+    "defensive::prevent_finishing::Opp Shots on Target": {
+      "higher_is_better": false,
+      "t1": 3.66,
+      "t2": 4.51,
+      "t3": 4.97,
+      "avg": 4.515625,
+      "min": 2.99,
+      "max": 6.69,
+      "ranked_teams": [
+        {
+          "team": "Malmö FF",
+          "value": 2.99,
+          "rank": 1
+        },
+        {
+          "team": "AIK",
+          "value": 3.22,
+          "rank": 2
+        },
+        {
+          "team": "Mjällby AIF",
+          "value": 3.45,
+          "rank": 3
+        },
+        {
+          "team": "GAIS",
+          "value": 3.66,
+          "rank": 4
+        },
+        {
+          "team": "Hammarby IF",
+          "value": 3.77,
+          "rank": 5
+        },
+        {
+          "team": "Djurgårdens IF",
+          "value": 4.13,
+          "rank": 6
+        },
+        {
+          "team": "IF Brommapojkarna",
+          "value": 4.3,
+          "rank": 7
+        },
+        {
+          "team": "IFK Göteborg",
+          "value": 4.51,
+          "rank": 8
+        },
+        {
+          "team": "Degerfors IF",
+          "value": 4.52,
+          "rank": 9
+        },
+        {
+          "team": "BK Häcken",
+          "value": 4.64,
+          "rank": 10
+        },
+        {
+          "team": "Halmstads BK",
+          "value": 4.66,
+          "rank": 11
+        },
+        {
+          "team": "IK Sirius",
+          "value": 4.97,
+          "rank": 12
+        },
+        {
+          "team": "IFK Norrköping",
+          "value": 5.54,
+          "rank": 13
+        },
+        {
+          "team": "IF Elfsborg",
+          "value": 5.6,
+          "rank": 14
+        },
+        {
+          "team": "Östers IF",
+          "value": 5.6,
+          "rank": 15
+        },
+        {
+          "team": "IFK Värnamo",
+          "value": 6.69,
+          "rank": 16
+        }
+      ]
+    }
+  },
+  "team_avgs": {
+    "Mjällby AIF": {
+      "offensive::offensive_kpis::Touches final 3rd": 96.0,
+      "offensive::offensive_kpis::Touches in the box": 18.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.543,
+      "offensive::offensive_kpis::Ball Progression": 420.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 56.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.487,
+      "offensive::finishing_kpis::Shot-based xG": 1.54,
+      "offensive::finishing_kpis::Post-shot xG": 1.7,
+      "offensive::finishing_kpis::Shots": 14.3,
+      "offensive::finishing_kpis::Shots Inside the box": 10.36,
+      "offensive::finishing_kpis::Shots on Target": 5.4,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 88.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 13.0,
+      "defensive::defensive_kpis::PPDA": 9.21,
+      "defensive::defensive_kpis::Average Pressure Height": 61.7,
+      "defensive::defensive_kpis::Own Defence Broken": 42.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 307.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.519,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 31.25,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.031,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.528,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.514,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.23,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.11,
+      "defensive::prevent_finishing::Opp Shots": 11.7,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 8.4,
+      "defensive::prevent_finishing::Opp Shots on Target": 3.45
+    },
+    "Hammarby IF": {
+      "offensive::offensive_kpis::Touches final 3rd": 146.0,
+      "offensive::offensive_kpis::Touches in the box": 17.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.599,
+      "offensive::offensive_kpis::Ball Progression": 421.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 54.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.498,
+      "offensive::finishing_kpis::Shot-based xG": 1.67,
+      "offensive::finishing_kpis::Post-shot xG": 2.0,
+      "offensive::finishing_kpis::Shots": 16.0,
+      "offensive::finishing_kpis::Shots Inside the box": 11.9,
+      "offensive::finishing_kpis::Shots on Target": 6.0,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 60.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 10.0,
+      "defensive::defensive_kpis::PPDA": 7.61,
+      "defensive::defensive_kpis::Average Pressure Height": 69.3,
+      "defensive::defensive_kpis::Own Defence Broken": 49.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 318.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.514,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 33.36,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.024,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.542,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.467,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.08,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.17,
+      "defensive::prevent_finishing::Opp Shots": 10.0,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 7.57,
+      "defensive::prevent_finishing::Opp Shots on Target": 3.77
+    },
+    "GAIS": {
+      "offensive::offensive_kpis::Touches final 3rd": 114.0,
+      "offensive::offensive_kpis::Touches in the box": 15.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.518,
+      "offensive::offensive_kpis::Ball Progression": 355.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 45.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.549,
+      "offensive::finishing_kpis::Shot-based xG": 1.73,
+      "offensive::finishing_kpis::Post-shot xG": 1.55,
+      "offensive::finishing_kpis::Shots": 16.0,
+      "offensive::finishing_kpis::Shots Inside the box": 11.66,
+      "offensive::finishing_kpis::Shots on Target": 4.9,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 69.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 12.0,
+      "defensive::defensive_kpis::PPDA": 8.82,
+      "defensive::defensive_kpis::Average Pressure Height": 66.0,
+      "defensive::defensive_kpis::Own Defence Broken": 47.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 341.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.517,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 32.08,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.024,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.515,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.476,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.15,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.13,
+      "defensive::prevent_finishing::Opp Shots": 11.4,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 8.27,
+      "defensive::prevent_finishing::Opp Shots on Target": 3.66
+    },
+    "IFK Göteborg": {
+      "offensive::offensive_kpis::Touches final 3rd": 94.0,
+      "offensive::offensive_kpis::Touches in the box": 16.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.513,
+      "offensive::offensive_kpis::Ball Progression": 327.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 41.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.572,
+      "offensive::finishing_kpis::Shot-based xG": 1.55,
+      "offensive::finishing_kpis::Post-shot xG": 1.53,
+      "offensive::finishing_kpis::Shots": 13.6,
+      "offensive::finishing_kpis::Shots Inside the box": 10.37,
+      "offensive::finishing_kpis::Shots on Target": 4.4,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 78.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 16.0,
+      "defensive::defensive_kpis::PPDA": 8.99,
+      "defensive::defensive_kpis::Average Pressure Height": 61.5,
+      "defensive::defensive_kpis::Own Defence Broken": 47.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 334.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.492,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 32.55,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.03,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.539,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.494,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.46,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.38,
+      "defensive::prevent_finishing::Opp Shots": 12.9,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 9.97,
+      "defensive::prevent_finishing::Opp Shots on Target": 4.51
+    },
+    "Djurgårdens IF": {
+      "offensive::offensive_kpis::Touches final 3rd": 95.0,
+      "offensive::offensive_kpis::Touches in the box": 18.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.529,
+      "offensive::offensive_kpis::Ball Progression": 373.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 56.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.527,
+      "offensive::finishing_kpis::Shot-based xG": 1.65,
+      "offensive::finishing_kpis::Post-shot xG": 1.64,
+      "offensive::finishing_kpis::Shots": 13.9,
+      "offensive::finishing_kpis::Shots Inside the box": 10.34,
+      "offensive::finishing_kpis::Shots on Target": 5.0,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 87.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 15.0,
+      "defensive::defensive_kpis::PPDA": 9.0,
+      "defensive::defensive_kpis::Average Pressure Height": 63.3,
+      "defensive::defensive_kpis::Own Defence Broken": 50.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 341.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.485,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 30.55,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.029,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.524,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.467,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.4,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.26,
+      "defensive::prevent_finishing::Opp Shots": 12.0,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 9.36,
+      "defensive::prevent_finishing::Opp Shots on Target": 4.13
+    },
+    "Malmö FF": {
+      "offensive::offensive_kpis::Touches final 3rd": 114.0,
+      "offensive::offensive_kpis::Touches in the box": 22.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.557,
+      "offensive::offensive_kpis::Ball Progression": 402.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 53.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.492,
+      "offensive::finishing_kpis::Shot-based xG": 1.66,
+      "offensive::finishing_kpis::Post-shot xG": 1.56,
+      "offensive::finishing_kpis::Shots": 15.5,
+      "offensive::finishing_kpis::Shots Inside the box": 11.9,
+      "offensive::finishing_kpis::Shots on Target": 5.1,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 73.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 13.0,
+      "defensive::defensive_kpis::PPDA": 8.76,
+      "defensive::defensive_kpis::Average Pressure Height": 64.0,
+      "defensive::defensive_kpis::Own Defence Broken": 43.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 321.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.507,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 32.95,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.029,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.506,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.482,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.37,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.09,
+      "defensive::prevent_finishing::Opp Shots": 10.9,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 7.83,
+      "defensive::prevent_finishing::Opp Shots on Target": 2.99
+    },
+    "AIK": {
+      "offensive::offensive_kpis::Touches final 3rd": 72.0,
+      "offensive::offensive_kpis::Touches in the box": 15.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.467,
+      "offensive::offensive_kpis::Ball Progression": 301.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 47.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.579,
+      "offensive::finishing_kpis::Shot-based xG": 1.33,
+      "offensive::finishing_kpis::Post-shot xG": 1.31,
+      "offensive::finishing_kpis::Shots": 12.2,
+      "offensive::finishing_kpis::Shots Inside the box": 9.3,
+      "offensive::finishing_kpis::Shots on Target": 4.1,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 86.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 11.0,
+      "defensive::defensive_kpis::PPDA": 9.58,
+      "defensive::defensive_kpis::Average Pressure Height": 58.8,
+      "defensive::defensive_kpis::Own Defence Broken": 45.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 327.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.506,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 30.84,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.036,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.51,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.482,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.17,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.03,
+      "defensive::prevent_finishing::Opp Shots": 10.5,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 8.0,
+      "defensive::prevent_finishing::Opp Shots on Target": 3.22
+    },
+    "IF Elfsborg": {
+      "offensive::offensive_kpis::Touches final 3rd": 80.0,
+      "offensive::offensive_kpis::Touches in the box": 16.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.486,
+      "offensive::offensive_kpis::Ball Progression": 316.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 43.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.555,
+      "offensive::finishing_kpis::Shot-based xG": 1.59,
+      "offensive::finishing_kpis::Post-shot xG": 1.59,
+      "offensive::finishing_kpis::Shots": 12.2,
+      "offensive::finishing_kpis::Shots Inside the box": 10.3,
+      "offensive::finishing_kpis::Shots on Target": 4.3,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 88.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 13.0,
+      "defensive::defensive_kpis::PPDA": 9.96,
+      "defensive::defensive_kpis::Average Pressure Height": 60.1,
+      "defensive::defensive_kpis::Own Defence Broken": 49.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 345.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.5,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 30.4,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.027,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.496,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.473,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.53,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.65,
+      "defensive::prevent_finishing::Opp Shots": 14.0,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 9.83,
+      "defensive::prevent_finishing::Opp Shots on Target": 5.6
+    },
+    "IK Sirius": {
+      "offensive::offensive_kpis::Touches final 3rd": 92.0,
+      "offensive::offensive_kpis::Touches in the box": 16.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.501,
+      "offensive::offensive_kpis::Ball Progression": 351.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 50.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.499,
+      "offensive::finishing_kpis::Shot-based xG": 1.75,
+      "offensive::finishing_kpis::Post-shot xG": 1.65,
+      "offensive::finishing_kpis::Shots": 14.2,
+      "offensive::finishing_kpis::Shots Inside the box": 10.83,
+      "offensive::finishing_kpis::Shots on Target": 5.1,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 95.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 17.0,
+      "defensive::defensive_kpis::PPDA": 9.93,
+      "defensive::defensive_kpis::Average Pressure Height": 62.9,
+      "defensive::defensive_kpis::Own Defence Broken": 43.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 371.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.479,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 30.44,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.023,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.485,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.442,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.48,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.47,
+      "defensive::prevent_finishing::Opp Shots": 13.6,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 10.4,
+      "defensive::prevent_finishing::Opp Shots on Target": 4.97
+    },
+    "BK Häcken": {
+      "offensive::offensive_kpis::Touches final 3rd": 112.0,
+      "offensive::offensive_kpis::Touches in the box": 17.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.563,
+      "offensive::offensive_kpis::Ball Progression": 414.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 51.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.487,
+      "offensive::finishing_kpis::Shot-based xG": 1.75,
+      "offensive::finishing_kpis::Post-shot xG": 1.74,
+      "offensive::finishing_kpis::Shots": 14.9,
+      "offensive::finishing_kpis::Shots Inside the box": 10.77,
+      "offensive::finishing_kpis::Shots on Target": 5.9,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 78.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 14.0,
+      "defensive::defensive_kpis::PPDA": 9.17,
+      "defensive::defensive_kpis::Average Pressure Height": 65.0,
+      "defensive::defensive_kpis::Own Defence Broken": 51.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 322.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.507,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 31.15,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.027,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.522,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.467,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.55,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.58,
+      "defensive::prevent_finishing::Opp Shots": 12.2,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 9.53,
+      "defensive::prevent_finishing::Opp Shots on Target": 4.64
+    },
+    "Halmstads BK": {
+      "offensive::offensive_kpis::Touches final 3rd": 51.0,
+      "offensive::offensive_kpis::Touches in the box": 11.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.417,
+      "offensive::offensive_kpis::Ball Progression": 287.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 45.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.564,
+      "offensive::finishing_kpis::Shot-based xG": 1.21,
+      "offensive::finishing_kpis::Post-shot xG": 0.96,
+      "offensive::finishing_kpis::Shots": 9.9,
+      "offensive::finishing_kpis::Shots Inside the box": 8.03,
+      "offensive::finishing_kpis::Shots on Target": 3.5,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 109.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 16.0,
+      "defensive::defensive_kpis::PPDA": 13.1,
+      "defensive::defensive_kpis::Average Pressure Height": 57.4,
+      "defensive::defensive_kpis::Own Defence Broken": 43.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 357.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.478,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 30.02,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.026,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.459,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.41,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.63,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.64,
+      "defensive::prevent_finishing::Opp Shots": 14.2,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 10.67,
+      "defensive::prevent_finishing::Opp Shots on Target": 4.66
+    },
+    "IF Brommapojkarna": {
+      "offensive::offensive_kpis::Touches final 3rd": 76.0,
+      "offensive::offensive_kpis::Touches in the box": 14.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.443,
+      "offensive::offensive_kpis::Ball Progression": 314.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 48.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.538,
+      "offensive::finishing_kpis::Shot-based xG": 1.38,
+      "offensive::finishing_kpis::Post-shot xG": 1.36,
+      "offensive::finishing_kpis::Shots": 12.7,
+      "offensive::finishing_kpis::Shots Inside the box": 9.7,
+      "offensive::finishing_kpis::Shots on Target": 4.7,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 104.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 16.0,
+      "defensive::defensive_kpis::PPDA": 12.58,
+      "defensive::defensive_kpis::Average Pressure Height": 59.8,
+      "defensive::defensive_kpis::Own Defence Broken": 48.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 379.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.504,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 30.04,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.023,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.485,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.426,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.47,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.36,
+      "defensive::prevent_finishing::Opp Shots": 14.5,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 10.03,
+      "defensive::prevent_finishing::Opp Shots on Target": 4.3
+    },
+    "Degerfors IF": {
+      "offensive::offensive_kpis::Touches final 3rd": 77.0,
+      "offensive::offensive_kpis::Touches in the box": 12.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.447,
+      "offensive::offensive_kpis::Ball Progression": 313.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 46.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.557,
+      "offensive::finishing_kpis::Shot-based xG": 1.41,
+      "offensive::finishing_kpis::Post-shot xG": 1.25,
+      "offensive::finishing_kpis::Shots": 12.7,
+      "offensive::finishing_kpis::Shots Inside the box": 8.63,
+      "offensive::finishing_kpis::Shots on Target": 4.3,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 98.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 16.0,
+      "defensive::defensive_kpis::PPDA": 10.99,
+      "defensive::defensive_kpis::Average Pressure Height": 58.1,
+      "defensive::defensive_kpis::Own Defence Broken": 47.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 352.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.494,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 31.71,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.026,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.498,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.45,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.55,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.54,
+      "defensive::prevent_finishing::Opp Shots": 13.1,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 10.63,
+      "defensive::prevent_finishing::Opp Shots on Target": 4.52
+    },
+    "IFK Norrköping": {
+      "offensive::offensive_kpis::Touches final 3rd": 69.0,
+      "offensive::offensive_kpis::Touches in the box": 12.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.469,
+      "offensive::offensive_kpis::Ball Progression": 304.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 43.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.555,
+      "offensive::finishing_kpis::Shot-based xG": 1.23,
+      "offensive::finishing_kpis::Post-shot xG": 1.3,
+      "offensive::finishing_kpis::Shots": 11.0,
+      "offensive::finishing_kpis::Shots Inside the box": 8.16,
+      "offensive::finishing_kpis::Shots on Target": 4.1,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 107.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 19.0,
+      "defensive::defensive_kpis::PPDA": 10.95,
+      "defensive::defensive_kpis::Average Pressure Height": 59.0,
+      "defensive::defensive_kpis::Own Defence Broken": 55.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 367.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.505,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 29.15,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.023,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.504,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.453,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.76,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.86,
+      "defensive::prevent_finishing::Opp Shots": 15.4,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 11.8,
+      "defensive::prevent_finishing::Opp Shots on Target": 5.54
+    },
+    "Östers IF": {
+      "offensive::offensive_kpis::Touches final 3rd": 69.0,
+      "offensive::offensive_kpis::Touches in the box": 11.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.467,
+      "offensive::offensive_kpis::Ball Progression": 307.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 44.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.556,
+      "offensive::finishing_kpis::Shot-based xG": 1.1,
+      "offensive::finishing_kpis::Post-shot xG": 1.01,
+      "offensive::finishing_kpis::Shots": 9.3,
+      "offensive::finishing_kpis::Shots Inside the box": 7.3,
+      "offensive::finishing_kpis::Shots on Target": 3.3,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 103.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 19.0,
+      "defensive::defensive_kpis::PPDA": 10.34,
+      "defensive::defensive_kpis::Average Pressure Height": 57.4,
+      "defensive::defensive_kpis::Own Defence Broken": 48.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 372.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.505,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 30.12,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.024,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.506,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.482,
+      "defensive::prevent_finishing::Opp Shot-based xG": 1.81,
+      "defensive::prevent_finishing::Opp Post-shot xG": 1.65,
+      "defensive::prevent_finishing::Opp Shots": 17.1,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 12.6,
+      "defensive::prevent_finishing::Opp Shots on Target": 5.6
+    },
+    "IFK Värnamo": {
+      "offensive::offensive_kpis::Touches final 3rd": 74.0,
+      "offensive::offensive_kpis::Touches in the box": 11.0,
+      "offensive::offensive_kpis::Ball Possession Rate %": 0.47,
+      "offensive::offensive_kpis::Ball Progression": 341.0,
+      "offensive::offensive_kpis::Breaking Opponent Defence": 47.0,
+      "offensive::offensive_kpis::Ratio - offensive ball control": 0.549,
+      "offensive::finishing_kpis::Shot-based xG": 1.24,
+      "offensive::finishing_kpis::Post-shot xG": 1.11,
+      "offensive::finishing_kpis::Shots": 12.7,
+      "offensive::finishing_kpis::Shots Inside the box": 8.9,
+      "offensive::finishing_kpis::Shots on Target": 3.7,
+      "defensive::defensive_kpis::Opp Touches final 3rd": 109.0,
+      "defensive::defensive_kpis::Opp Touches in the box": 21.0,
+      "defensive::defensive_kpis::PPDA": 11.15,
+      "defensive::defensive_kpis::Average Pressure Height": 60.6,
+      "defensive::defensive_kpis::Own Defence Broken": 62.0,
+      "defensive::defensive_kpis::Opp Ball Progression": 394.0,
+      "defensive::defensive_kpis::Duel Rate %": 0.487,
+      "defensive::defensive_kpis::Avg pressure Counter Press": 30.15,
+      "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.024,
+      "defensive::defensive_kpis::Ratio - def interv/clearances": 0.501,
+      "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.438,
+      "defensive::prevent_finishing::Opp Shot-based xG": 2.16,
+      "defensive::prevent_finishing::Opp Post-shot xG": 2.3,
+      "defensive::prevent_finishing::Opp Shots": 17.6,
+      "defensive::prevent_finishing::Opp Shots Inside the box": 13.57,
+      "defensive::prevent_finishing::Opp Shots on Target": 6.69
+    }
+  }
+}

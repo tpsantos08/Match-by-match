@@ -1,0 +1,10 @@
+{
+  "league_name": "Allsvenskan",
+  "season": "2026",
+  "reference_season": "2025",
+  "total_matches_per_team": 34,
+  "window_size": 5,
+  "teams_in_league": 16,
+  "dashboard_title": "Allsvenskan 2026",
+  "reference_label": "2025 avg"
+}
