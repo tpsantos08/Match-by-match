@@ -581,6 +581,42 @@
           "defensive::prevent_finishing::Opp Shots Inside the box": 21.0,
           "defensive::prevent_finishing::Opp Shots on Target": 8.0
         }
+      },
+      {
+        "matchday": "Matchday 13",
+        "opponent": "GAIS",
+        "home_away": "H",
+        "score": "2:0",
+        "date": "18.07.2026",
+        "values": {
+          "offensive::offensive_kpis::Touches final 3rd": 71.0,
+          "offensive::offensive_kpis::Touches in the box": 14.0,
+          "offensive::offensive_kpis::Ball Possession Rate %": 0.535,
+          "offensive::offensive_kpis::Ball Progression": 355.0,
+          "offensive::offensive_kpis::Breaking Opponent Defence": 67.0,
+          "offensive::offensive_kpis::Ratio - offensive ball control": 0.519,
+          "offensive::finishing_kpis::Shot-based xG": 1.36,
+          "offensive::finishing_kpis::Post-shot xG": 1.36,
+          "offensive::finishing_kpis::Shots": 10.0,
+          "offensive::finishing_kpis::Shots Inside the box": 6.0,
+          "offensive::finishing_kpis::Shots on Target": 4.0,
+          "defensive::defensive_kpis::Opp Touches final 3rd": 89.0,
+          "defensive::defensive_kpis::Opp Touches in the box": 9.0,
+          "defensive::defensive_kpis::PPDA": 11.76,
+          "defensive::defensive_kpis::Average Pressure Height": 63.1,
+          "defensive::defensive_kpis::Own Defence Broken": 22.0,
+          "defensive::defensive_kpis::Opp Ball Progression": 283.0,
+          "defensive::defensive_kpis::Duel Rate %": 0.505,
+          "defensive::defensive_kpis::Avg pressure Counter Press": 32.11,
+          "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.048,
+          "defensive::defensive_kpis::Ratio - def interv/clearances": 0.6,
+          "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.501,
+          "defensive::prevent_finishing::Opp Shot-based xG": 0.86,
+          "defensive::prevent_finishing::Opp Post-shot xG": 0.51,
+          "defensive::prevent_finishing::Opp Shots": 13.0,
+          "defensive::prevent_finishing::Opp Shots Inside the box": 9.0,
+          "defensive::prevent_finishing::Opp Shots on Target": 3.0
+        }
       }
     ]
   },
