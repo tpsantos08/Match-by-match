@@ -763,7 +763,7 @@
         }
       },
       {
-        "matchday": "Matchday 19",
+        "matchday": "Matchday 18",
         "opponent": "Hammarby IF",
         "home_away": "H",
         "score": "3:2",
@@ -796,6 +796,42 @@
           "defensive::prevent_finishing::Opp Shots": 31.0,
           "defensive::prevent_finishing::Opp Shots Inside the box": 23.0,
           "defensive::prevent_finishing::Opp Shots on Target": 12.0
+        }
+      },
+      {
+        "matchday": "Matchday 19",
+        "opponent": "Malmö FF",
+        "home_away": "A",
+        "score": "0:0",
+        "date": "07.09.2026",
+        "values": {
+          "offensive::offensive_kpis::Touches final 3rd": 33.0,
+          "offensive::offensive_kpis::Touches in the box": 7.0,
+          "offensive::offensive_kpis::Ball Possession Rate %": 0.416,
+          "offensive::offensive_kpis::Ball Progression": 284.0,
+          "offensive::offensive_kpis::Breaking Opponent Defence": 49.0,
+          "offensive::offensive_kpis::Ratio - offensive ball control": 0.578,
+          "offensive::finishing_kpis::Shot-based xG": 0.71,
+          "offensive::finishing_kpis::Post-shot xG": 0.75,
+          "offensive::finishing_kpis::Shots": 11.0,
+          "offensive::finishing_kpis::Shots Inside the box": 7.0,
+          "offensive::finishing_kpis::Shots on Target": 3.0,
+          "defensive::defensive_kpis::Opp Touches final 3rd": 210.0,
+          "defensive::defensive_kpis::Opp Touches in the box": 37.0,
+          "defensive::defensive_kpis::PPDA": 12.97,
+          "defensive::defensive_kpis::Average Pressure Height": 53.6,
+          "defensive::defensive_kpis::Own Defence Broken": 44.0,
+          "defensive::defensive_kpis::Opp Ball Progression": 493.0,
+          "defensive::defensive_kpis::Duel Rate %": 0.447,
+          "defensive::defensive_kpis::Avg pressure Counter Press": 29.52,
+          "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.014,
+          "defensive::defensive_kpis::Ratio - def interv/clearances": 0.448,
+          "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.472,
+          "defensive::prevent_finishing::Opp Shot-based xG": 0.89,
+          "defensive::prevent_finishing::Opp Post-shot xG": 0.53,
+          "defensive::prevent_finishing::Opp Shots": 12.0,
+          "defensive::prevent_finishing::Opp Shots Inside the box": 6.0,
+          "defensive::prevent_finishing::Opp Shots on Target": 4.0
         }
       }
     ]
