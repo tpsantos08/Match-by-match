@@ -941,6 +941,42 @@
           "defensive::prevent_finishing::Opp Shots Inside the box": 11.0,
           "defensive::prevent_finishing::Opp Shots on Target": 9.0
         }
+      },
+      {
+        "matchday": "Matchday 23",
+        "opponent": "IF Brommapojkarna",
+        "home_away": "H",
+        "score": "5:6",
+        "date": "10.10.2026",
+        "values": {
+          "offensive::offensive_kpis::Touches final 3rd": 120.0,
+          "offensive::offensive_kpis::Touches in the box": 23.0,
+          "offensive::offensive_kpis::Ball Possession Rate %": 0.642,
+          "offensive::offensive_kpis::Ball Progression": 444.0,
+          "offensive::offensive_kpis::Breaking Opponent Defence": 59.0,
+          "offensive::offensive_kpis::Ratio - offensive ball control": 0.476,
+          "offensive::finishing_kpis::Shot-based xG": 2.61,
+          "offensive::finishing_kpis::Post-shot xG": 3.21,
+          "offensive::finishing_kpis::Shots": 25.0,
+          "offensive::finishing_kpis::Shots Inside the box": 19.0,
+          "offensive::finishing_kpis::Shots on Target": 13.0,
+          "defensive::defensive_kpis::Opp Touches final 3rd": 34.0,
+          "defensive::defensive_kpis::Opp Touches in the box": 13.0,
+          "defensive::defensive_kpis::PPDA": 11.42,
+          "defensive::defensive_kpis::Average Pressure Height": 71.2,
+          "defensive::defensive_kpis::Own Defence Broken": 55.0,
+          "defensive::defensive_kpis::Opp Ball Progression": 312.0,
+          "defensive::defensive_kpis::Duel Rate %": 0.475,
+          "defensive::defensive_kpis::Avg pressure Counter Press": 28.99,
+          "defensive::defensive_kpis::Offensive Ball Wins (Def.)": 0.032,
+          "defensive::defensive_kpis::Ratio - def interv/clearances": 0.541,
+          "defensive::defensive_kpis::Ratio - Last Ditch Interv.": 0.37,
+          "defensive::prevent_finishing::Opp Shot-based xG": 3.12,
+          "defensive::prevent_finishing::Opp Post-shot xG": 3.48,
+          "defensive::prevent_finishing::Opp Shots": 13.0,
+          "defensive::prevent_finishing::Opp Shots Inside the box": 12.0,
+          "defensive::prevent_finishing::Opp Shots on Target": 8.0
+        }
       }
     ]
   },
